@@ -1,6 +1,6 @@
 # Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
 
-<img width="1470" alt="Readme" src="C:\Users\Pushpraj Singh\ai-finance-platform\public\Readme.png">
+<img width="1470" alt="Readme" src="/Readme.png">
 
 ### Make sure to create a `.env` file with following variables -
 
