@@ -2,9 +2,15 @@
 
 <img width="1470" alt="Budget Brain Preview" src="./public/Readme1.png">
 
+### Budget Brain Dashboard Preview -
+
 <img width="1470" alt="Budget Brain Dashboard Preview" src="./public/Readme3.png">
 
+### Budget Brain Receipt Preview -
+
 <img width="1470" alt="Budget Brain Receipt Preview" src="./public/Readme2.png">
+
+### Budget Brain Account Preview -
 
 <img width="1470" alt="Budget Brain Account Preview" src="./public/Readme4.png">
 
