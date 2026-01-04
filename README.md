@@ -1,6 +1,14 @@
-# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 🔥🔥
+# Full Stack AI Fianace Platform with Next JS, Supabase, Tailwind, Prisma, Inngest, ArcJet, Shadcn UI Tutorial 
 
 <img width="1470" alt="Budget Brain Preview" src="./public/Readme1.png">
+
+<img width="1470" alt="Budget Brain Dashboard Preview" src="./public/Readme3.png">
+
+<img width="1470" alt="Budget Brain Receipt Preview" src="./public/Readme2.png">
+
+<img width="1470" alt="Budget Brain Account Preview" src="./public/Readme4.png">
+
+
 
 ### Make sure to create a `.env` file with following variables -
 
